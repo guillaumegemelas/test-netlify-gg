@@ -19,6 +19,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <h1>test netlify done!!!</h1>
+        <h2>Mo Mo Mo</h2>
       </div>
     </div>
   );
